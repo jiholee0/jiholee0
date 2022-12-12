@@ -13,10 +13,12 @@
 
   <br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiholee0&langs_count=10&layout=compact&card_width=400px"/>
+  
+![jiholee0's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiholee0&show_icons=true&theme=tokyonight&count_private=true&card_width=400px)
 
 <!--   ![jiholee0's Language](https://github-readme-stats.vercel.app/api/top-langs/?username=jiholee0&langs_count=10&layout=compact&card_width=400px) -->
   
-  ![jiholee0's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiholee0&show_icons=true&theme=tokyonight&count_private=true&card_width=400px)
+ 
   
 <br>
 
