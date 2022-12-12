@@ -1,7 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jiho's%20GitHub%20😃&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=74&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jiho's%20GitHub%20👋&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=74&height=250)
 
-<div align="center">
-  
   ## 💻 DEV's log
   <br>
   
@@ -12,13 +10,18 @@
   [![NOTION](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhomputer.notion.site%2FJIHO-14d41d2e28604ef186f59765dbb27f79&count_bg=%2384E0D3&title=NOTION&title_bg=%232F2E2E&icon=notion.svg&icon_color=%23F8F7F7&title=&edge_flat=false)](https://www.notion.site/homputer/JIHO-14d41d2e28604ef186f59765dbb27f79)
 
   <br>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiholee0&langs_count=10&layout=compact"/>
-  
-  ![jiholee0's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiholee0&show_icons=true&theme=tokyonight&count_private=true)
-
-<!--   ![jiholee0's Language](https://github-readme-stats.vercel.app/api/top-langs/?username=jiholee0&langs_count=10&layout=compact&card_width=400px)-->
+ <!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiholee0&langs_count=10&layout=compact"/>-->
+ <!--![jiholee0's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiholee0&show_icons=true&theme=tokyonight&count_private=true)-->
+ <!--![jiholee0's Language](https://github-readme-stats.vercel.app/api/top-langs/?username=jiholee0&langs_count=10&layout=compact&card_width=400px)-->
  
-  
+ <div style="display: flex, height:180px">
+ 
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=jiholee0&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="JIHO's github stats" />
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiholee0&layout=compact&theme=nord&hide_border=true&langs_count=10" />
+
+</div>
+ 
+
 <br>
 
   ## 🔨 Once I've used
@@ -43,8 +46,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
   <br><br><br>
-  </div>
-</div>
+
 
 <!-- [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwlgh1254)](https://solved.ac/dlwlgh1254) -->
 
