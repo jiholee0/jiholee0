@@ -7,8 +7,8 @@
   
   [![TISTORY](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Feasyhomputer.tistory.com&count_bg=%237C86DE&title=TISTORY&title_bg=%232F2E2E&icon=blogger.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://easyhomputer.tistory.com)
   
-  [![NOTION](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhomputer.notion.site%2FJIHO-14d41d2e28604ef186f59765dbb27f79&count_bg=%2384E0D3&title=NOTION&title_bg=%232F2E2E&icon=notion.svg&icon_color=%23F8F7F7&title=&edge_flat=false)](https://www.notion.site/homputer/JIHO-14d41d2e28604ef186f59765dbb27f79)
-
+<!--   [![NOTION](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhomputer.notion.site%2FJIHO-14d41d2e28604ef186f59765dbb27f79&count_bg=%2384E0D3&title=NOTION&title_bg=%232F2E2E&icon=notion.svg&icon_color=%23F8F7F7&title=&edge_flat=false)](https://www.notion.site/homputer/JIHO-14d41d2e28604ef186f59765dbb27f79)
+ -->
   <br>
  <!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiholee0&langs_count=10&layout=compact"/>-->
  <!--![jiholee0's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiholee0&show_icons=true&theme=tokyonight&count_private=true)-->
