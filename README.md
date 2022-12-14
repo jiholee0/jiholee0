@@ -9,13 +9,7 @@
 
 [![JIHO's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiholee0&layout=compact&theme=nord&hide_border=true&langs_count=10)](https://github.com/jiholee0/github-readme-stats)  
 <br>
-
-</div>
-<div style="display:flex; flex-direction:row;">
-	<div> 1 </div>
-	<div> 2 </div>
-    <div align="center">
-
+	
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://easyhomputer.tistory.com">
@@ -35,8 +29,6 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
-    </div>
-    <div align="center">
     
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
@@ -65,6 +57,6 @@
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"> 
     <br>
 </div><br>
-    </div>
+</div>
 <!-- [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwlgh1254)](https://solved.ac/dlwlgh1254) -->
 
