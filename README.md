@@ -1,10 +1,9 @@
-<div align="left">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=40&height=100)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3000&pause=3&color=timeGradient&center=true&multiline=true&width=1000&height=120&lines=Welcome+to+Jiho's+GitHub!)](https://git.io/typing-svg)
----
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3000&pause=3&color=6994CDEE&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Welcome+to+Jiho's+GitHub!)](https://git.io/typing-svg)
+ 
+<div align="left">
+     
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/jiholee0)
 
 <!--[![JIHO's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiholee0&layout=compact&theme=nord&hide_border=true&langs_count=10)](https://github.com/jiholee0/github-readme-stats)-->
