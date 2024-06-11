@@ -31,8 +31,8 @@
 <br>
  <a href="https://jiho0607.notion.site/Deep-Dive-Into-Design-Patterns-e84ccd8bbd8b40c58a0fab9ccaeb2b41" title = "Deep Dive Into Design Patterns">
   <img src="https://github.com/jiholee0/jiholee0/assets/42367169/3ba5cb71-7015-491a-b2e8-149bf7d3648d" width="100" height="100"/>
-  Design Patterns Study Notes
  </a>
+ ← 𝘋𝘦𝘴𝘪𝘨𝘯 𝘗𝘢𝘵𝘵𝘦𝘳𝘯𝘴 𝘚𝘵𝘶𝘥𝘺 𝘕𝘰𝘵𝘦𝘴
 </div><br>
 
  
