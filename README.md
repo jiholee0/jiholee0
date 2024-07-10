@@ -29,12 +29,26 @@
     </a> -->
 <!--[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://easyhomputer.tistory.com)-->
 <br>
- <a href="https://jiho0607.notion.site/Deep-Dive-Into-Design-Patterns-e84ccd8bbd8b40c58a0fab9ccaeb2b41" title = "Deep Dive Into Design Patterns">
+<!--  <a href="https://jiho0607.notion.site/Deep-Dive-Into-Design-Patterns-e84ccd8bbd8b40c58a0fab9ccaeb2b41" title = "Deep Dive Into Design Patterns">
   <img src="https://github.com/jiholee0/jiholee0/assets/42367169/3ba5cb71-7015-491a-b2e8-149bf7d3648d" width="100" height="100"/>
  </a>
- ← 𝘋𝘦𝘴𝘪𝘨𝘯 𝘗𝘢𝘵𝘵𝘦𝘳𝘯𝘴 𝘚𝘵𝘶𝘥𝘺 𝘕𝘰𝘵𝘦𝘴
+ ← 𝘋𝘦𝘴𝘪𝘨𝘯 𝘗𝘢𝘵𝘵𝘦𝘳𝘯𝘴 𝘚𝘵𝘶𝘥𝘺 𝘕𝘰𝘵𝘦𝘴 -->
 </div><br>
 
+## 💪 Experience 💪
+- SSAFY 12기 _(2024.07~)_
+- IEIE 하계종합학술대회 학술지 논문 게재 _(2023.07 ~ 2024.07)_
+- 그릿지 서버 외주 개발 _(2023.12 ~ 2024.03)_
+- 이게뭐약! 서버 개발 _(2023.07 ~ 2023.10)_
+- FROMU 서버 1인 개발 _(2023.01 ~ 2023.07)_
+- CMC(Central MakeUs Challenge 12기 _(2023.01 ~ 2023.03)_
+- 나이스디앤비 IT 개발팀 인턴 _(2022.07 ~ 2022.12)_
+- 제스처 인식 기반 키오스크 제작 _(2022.07 ~ 2022.11)_
+- LG U+ 신규 서비스 자문단 _(2022.04 ~ 2022.10)_
+
+<br>
+
+<!-- ## 🏆 Award 🏆 -->
  
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
