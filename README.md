@@ -37,13 +37,6 @@
 
 ## 💪 Experience 💪
 - **SK AX(구 SK C&C) SW Engineer** _(2025.01~)_
-  - LLM 기반 물성 예측 데모 서비스 개발 
-    - Streamlit 기반 유사 구조 분자 추천 기능 구현  
-    - OpenAI API와 프롬프트 기법(Few-shot, System Prompting, 출력 포맷 제약 등) 활용  
-  - AIPS(물성예측) 서비스 개발 및 운영
-    - 기술 스택 : FastAPI / Celery / Docker / K8S / NCP / PostgreSQL / Redis / Kubeflow
-    - 요건에 맞는 API 개발 및 모델 비동기 처리 시스템 설계
-    - 폐쇄망(SKPC) 환경에서의 모델 배포를 위한 인프라 구축
 - SSAFY 12기 _(2024.07~2024.12)_
 - 대한전자공학회 IEIE 하계종합학술대회 학회 _(2024.06.26 ~ 2024.06.28)_
 - 소프트스퀘어드 외주 개발자 근무 _(2023.12 ~ 2024.03)_
@@ -58,6 +51,15 @@
 <br>
 
 ## 💻 Project 💻
+- **AIPS 물성예측(front/back/mlops)** _(2025.02~)_
+  [서비스 소개 페이지](https://skinccc-dev.outsystemsenterprise.com/generative-ai/property-prediction-ai)
+  - LLM 기반 물성 예측 데모 서비스 개발 
+    - Streamlit 기반 유사 구조 분자 추천 기능 구현  
+    - OpenAI API와 프롬프트 기법(Few-shot, System Prompting, 출력 포맷 제약 등) 활용  
+  - AIPS(물성예측) 서비스 개발 및 운영
+    - 기술 스택 : FastAPI / Celery / Docker / K8S / NCP / PostgreSQL / Redis / Kubeflow
+    - 요건에 맞는 API 개발 및 모델 비동기 처리 시스템 설계
+    - 폐쇄망(SKPC) 환경에서의 모델 배포를 위한 인프라 구축
 - Enjoy Camping 서비스 개발(front/back) _(2024.10~2024.11)_
 - (주)아인스 산학협력 프로젝트, IoT 및 AAS 기반 스마트 팩토리 운용 환경 구축 _(2023.07 ~ 2024.07)_
 - 그릿지 서버 개발 _(2023.12 ~ 2024.03)_
